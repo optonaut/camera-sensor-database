@@ -1,0 +1,12 @@
+{
+    "google/nexus-4": {
+      "focalLength": 4.5,
+      "sensorWidth": 3.68,
+      "sensorHeight": 2.76,
+    },
+    "samsung/galaxy-s3": {
+      "focalLength": 4.5,
+      "sensorWidth": 3.68,
+      "sensorHeight": 2.76,
+    }
+}
